@@ -29,8 +29,3 @@ The author is **not responsible** for any misuse, damages, or consequences arisi
 **World Zero Project** is a platform designed to allow developers to build innovative applications while maintaining ethical principles in technology. My goal is to complete its development, release a **beta version**, and seek sponsorship to support my future beyond Vietnam.  
 
 📢 If you want to know more or support the project, **stay connected!**  
-
----  
-
-This README sets a **strong foundation** for your repository and makes your story visible. Would you like to **refine** anything or add more personal details? 🚀  
-
