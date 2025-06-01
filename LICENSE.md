@@ -1,6 +1,6 @@
 World Zero Project License (WZPL) - Version 1.0
 
-Effective Date: September 2, 2025
+Effective Date: August 2, 2025
 
 Author: Toan Song Vo (Võ Song Toàn)
 
