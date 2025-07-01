@@ -1,34 +1,27 @@
-# 🌍 World Zero Project License (WZPL)  
+## 🌐 World Zero Project – License Summary
 
-### Version 1.0  
+The **World Zero Project** is a mission-driven initiative created by **Toan Song Vo (Võ Song Toàn)** to inspire ethical, just, and transparent technological development. This work is protected under the **World Zero Project License (WZPL) – Version 1.1**.
 
-**Author:** _Toan Song Vo (Võ Song Toàn)_  
+### 🔒 Important License Restrictions
 
-## 📌 Introduction  
-The **World Zero Project License (WZPL)** is not just a legal framework—it is a **declaration of my experiences**, my stand against corruption, and my commitment to ethical technology.  
+Due to the author's direct experience with injustice and systemic harm, this project enforces strict territorial and national exclusions.
 
-For 13 years, I have fought for fairness, security, and acknowledgment, yet my concerns have been ignored. This license is a symbol of my independence, ensuring my work remains untouched by the injustices I have endured.  
+Under **WZPL 1.1**, the following individuals and entities are **permanently prohibited** from accessing or using this project, in whole or in part:
 
-Through the **World Zero Project (WZP)**, I aim to build technology that embodies **transparency and integrity**. This license guarantees that my projects remain globally accessible while **prohibiting all Vietnamese individuals, regardless of residence, from using them in any form—except for myself as the sole authorized user**.  
+- Nationals and government-affiliated organizations of:
+  - **Vietnam**
+  - **Cambodia**
+  - **Laos**
+  - **North Korea**
 
-## 🚀 Purpose & Scope  
-The WZPL governs all projects developed under the **World Zero Project**, protecting their integrity and defining strict usage terms. It is designed to:  
-- **Establish ownership** over the project and its principles.  
-- **Ensure ethical usage** by restricting access to specific individuals.  
-- **Define clear rules** for individuals and organizations worldwide.  
+This restriction applies regardless of current residency, dual citizenship, or institutional affiliation.
 
-## ❌ Usage Restrictions  
-- **Prohibited Users:** No individual, organization, or government entity of **Vietnamese nationality**, regardless of their place of residence, **may access, use, modify, distribute, sell, provide, or support** any applications, services, machines, or entities utilizing World Zero Project or its projects.  
-- **Authorized Users:** All other individuals, organizations, and entities **outside these restrictions** are permitted to use, modify, and distribute this project.  
-- **Exclusive Rights:** The **author, Toan Song Vo**, is the **only Vietnamese individual** permitted to use, modify, distribute, and engage with World Zero Project and its projects without restriction.  
-- **Enforcement:** As the author, I retain the right to revoke usage or take action if these terms are violated.  
+> **Note**: The author, Toan Song Vo, is the only Vietnamese national permitted unrestricted access to this work.
 
-## ⚠️ Liability Disclaimer  
-The author is **not responsible** for any misuse, damages, or consequences arising from the use of the project. Users accept **all risks** associated with its implementation.  
+### ✅ Open Use for Others
 
-## 🛠 About World Zero Project  
-**World Zero Project** is more than just a technology initiative—it is a **statement of freedom**. Through it, I will prove that ethical principles and transparency can prevail.  
+All other individuals, researchers, and institutions outside these exclusions may freely use, adapt, and distribute the World Zero Project, within the bounds of the WZPL.
 
-My goal is to complete its development, release a **beta version**, and seek sponsorship to support my future beyond Vietnam.  
+### 📜 Full License
 
-📢 If you want to know more or support the project, **stay connected!**
+Please see the full [LICENSE](./LICENSE) file for detailed terms.
