@@ -1,15 +1,30 @@
-# **World Zero Project License (WZPL) - Version 1.0**  
+# **World Zero Project License (WZPL) – Version 1.1**  
 
-**Author:** Toan Song Vo (Võ Song Toàn)  
+**Author:** Toan Song Vo (Võ Song Toàn)
 
 ## 1. Purpose & Scope  
-This license governs the use of the **World Zero Project** and all projects developed under it, including current and future works. It is created to reflect the author's experiences, stand against corruption, and enforce restrictions on usage by Vietnamese individuals.  
+This license governs the use of the **World Zero Project** and all current and future projects under it. It is created to reflect the author's lived experiences, reject injustice, and prevent exploitation or misuse of this work by actors associated with oppressive regimes.
 
 ## 2. Usage Restrictions  
-- **Prohibited Users:** No individual, organization, or government entity of **Vietnamese nationality**, regardless of their place of residence, **may access, use, modify, distribute, sell, provide, or support** any applications, services, machines, or entities utilizing World Zero Project or its projects.  
-- **Authorized Users:** All other individuals, organizations, and entities **outside these restrictions** may use, modify, and distribute this project.  
-- **Exclusive Rights:** The **author, Toan Song Vo**, is the **only Vietnamese individual** permitted to use, modify, distribute, and engage with World Zero Project and its projects without restriction.  
-- **Enforcement:** The author holds the right to revoke usage or take action if these terms are violated.  
 
-## 3. Liability Disclaimer  
-The author is not responsible for any misuse, damages, or consequences arising from the use of the project. Users accept all risks associated with its implementation.  
+### 2.1 Prohibited Countries and Nationals  
+The following jurisdictions and all of their nationals, regardless of residency or dual citizenship status, are **strictly forbidden** from using, modifying, accessing, reproducing, distributing, deploying, or interfacing with any part of the World Zero Project or its affiliated works:
+
+- **Vietnam**  
+- **Cambodia**  
+- **Laos**  
+- **North Korea**
+
+This includes any individual, organization, or government body operating within, on behalf of, or affiliated with these countries.
+
+### 2.2 Exclusive Rights  
+The author, **Toan Song Vo**, is the sole exception to these restrictions and may freely use, modify, and develop the World Zero Project and its associated works without limitation.
+
+### 2.3 Permitted Users  
+All individuals and entities not listed in Section 2.1 may continue to use, adapt, and distribute this project in accordance with the rest of the license.
+
+## 3. Enforcement & Revocation  
+Violation of these terms may lead to immediate revocation of rights to use the project. The author reserves the right to pursue enforcement actions, identify violators publicly, and escalate consequences as necessary.
+
+## 4. Liability Disclaimer  
+All use of this project is at the user’s own risk. The author is not liable for any damages, misuse, or harm caused directly or indirectly by this software or its components.
