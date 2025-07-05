@@ -1,27 +1,36 @@
 ## 🌐 World Zero Project – License Summary
 
-The **World Zero Project** is a mission-driven initiative created by **Toan Song Vo (Võ Song Toàn)** to inspire ethical, just, and transparent technological development. This work is protected under the **World Zero Project License (WZPL) – Version 1.1**.
+The **World Zero Project** is a sovereign work created by **Toan Song Vo (Võ Song Toàn)** as both a technological initiative and a statement of resistance. Governed by the **World Zero Project License (WZPL) – Version 1.2**, this project embodies the right to self-protect, self-govern, and self-declare against injustice.
 
-### 🔒 Important License Restrictions
+### 🔒 License Restrictions (WZPL 1.2)
 
-Due to the author's direct experience with injustice and systemic harm, this project enforces strict territorial and national exclusions.
+Use of this project is **strictly prohibited** for:
 
-Under **WZPL 1.1**, the following individuals and entities are **permanently prohibited** from accessing or using this project, in whole or in part:
+- Any **government, organization, or citizen** (regardless of current residency or second nationality) affiliated with or based in **ASEAN member states**, including:
 
-- Nationals and government-affiliated organizations of:
-  - **Vietnam**
-  - **Cambodia**
-  - **Laos**
-  - **North Korea**
+  > 🇧🇳 Brunei  
+  > 🇰🇭 Cambodia  
+  > 🇮🇩 Indonesia  
+  > 🇱🇦 Laos  
+  > 🇲🇾 Malaysia  
+  > 🇲🇲 Myanmar  
+  > 🇵🇭 Philippines  
+  > 🇸🇬 Singapore  
+  > 🇹🇭 Thailand  
+  > 🇻🇳 Vietnam
 
-This restriction applies regardless of current residency, dual citizenship, or institutional affiliation.
+- Any **future nation admitted into ASEAN** is also covered under this restriction.
 
-> **Note**: The author, Toan Song Vo, is the only Vietnamese national permitted unrestricted access to this work.
+> **Exception:** The license explicitly allows full usage rights to **Toan Song Vo**, the author, regardless of nationality.
 
-### ✅ Open Use for Others
+### ✅ Allowed Use
 
-All other individuals, researchers, and institutions outside these exclusions may freely use, adapt, and distribute the World Zero Project, within the bounds of the WZPL.
+Outside these restrictions, all individuals and organizations are welcome to use, adapt, and distribute this project in accordance with the terms outlined in the license.
+
+### ❗ Why This Matters
+
+This license was written as a direct response to injustice. The author has experienced systemic harm, institutional abandonment, and the failure of legal protections. WZPL is both legal framework and personal boundary—a declaration that **those who abandon justice shall not benefit from this work.**
 
 ### 📜 Full License
 
-Please see the full [LICENSE](./LICENSE) file for detailed terms.
+Read the complete [LICENSE](./LICENSE) for detailed legal terms and conditions.
