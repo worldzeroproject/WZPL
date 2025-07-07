@@ -1,36 +1,22 @@
-## 🌐 World Zero Project – License Summary
+# 🌍 World Zero Project
 
-The **World Zero Project** is a sovereign work created by **Toan Song Vo (Võ Song Toàn)** as both a technological initiative and a statement of resistance. Governed by the **World Zero Project License (WZPL) – Version 1.2**, this project embodies the right to self-protect, self-govern, and self-declare against injustice.
+**Author:** [Toan Song Vo (Võ Song Toàn)]  
+**License:** [WZPL v1.3.1](https://github.com/worldzeroproject/WZPL/blob/main/LICENSE.md)  
+**Status:** Actively developed | Ethically protected
 
-### 🔒 License Restrictions (WZPL 1.2)
+---
 
-Use of this project is **strictly prohibited** for:
+## 🧭 Vision
 
-- Any **government, organization, or citizen** (regardless of current residency or second nationality) affiliated with or based in **ASEAN member states**, including:
+The **World Zero Project** is a foundational platform for logic execution, mission orchestration, and declarative UI integration. It is built to empower systems that think in steps, act with purpose, and honor the creator's boundaries and lived experiences.
 
-  > 🇧🇳 Brunei  
-  > 🇰🇭 Cambodia  
-  > 🇮🇩 Indonesia  
-  > 🇱🇦 Laos  
-  > 🇲🇾 Malaysia  
-  > 🇲🇲 Myanmar  
-  > 🇵🇭 Philippines  
-  > 🇸🇬 Singapore  
-  > 🇹🇭 Thailand  
-  > 🇻🇳 Vietnam
+> “It speaks the language of order, emotion, and structure—from logic to interface.”
 
-- Any **future nation admitted into ASEAN** is also covered under this restriction.
+---
 
-> **Exception:** The license explicitly allows full usage rights to **Toan Song Vo**, the author, regardless of nationality.
+## 🚀 What It Offers
 
-### ✅ Allowed Use
-
-Outside these restrictions, all individuals and organizations are welcome to use, adapt, and distribute this project in accordance with the terms outlined in the license.
-
-### ❗ Why This Matters
-
-This license was written as a direct response to injustice. The author has experienced systemic harm, institutional abandonment, and the failure of legal protections. WZPL is both legal framework and personal boundary—a declaration that **those who abandon justice shall not benefit from this work.**
-
-### 📜 Full License
-
-Read the complete [LICENSE](./LICENSE) for detailed legal terms and conditions.
+- **ZScript Engine** – A process-centric language for deterministic operations
+- **ZUI (ZUserInterface)** – Declarative .NET UI modeling with dynamic Razor bridge
+- **WZPL Licensing Model** – Purposeful access control rooted in geopolitical and ethical safety
+- **WZPL Syntax (optional)** – Coming soon: A higher-order script layer for expressive mission-building
