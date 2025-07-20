@@ -1,7 +1,7 @@
 # 🌍 World Zero Project
 
 **Author:** [Toan Song Vo (Võ Song Toàn)]  
-**License:** [WZPL v1.3.1](https://github.com/worldzeroproject/WZPL/blob/main/LICENSE.md)  
+**License:** [WZPL v1.3.2](https://github.com/worldzeroproject/WZPL/blob/main/LICENSE.md)  
 **Status:** Actively developed | Ethically protected
 
 ---
