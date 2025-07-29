@@ -1,7 +1,7 @@
-## 🌐 World Zero Project License (WZPL) – Version 1.3.4  
+## 🌐 World Zero Project License (WZPL) – Version 1.3.5  
 **Author:** *Toan Song Vo (Võ Song Toàn)*  
-**Effective Date:** July 27, 2025  
-**Supersedes:** v1.3.3 and all prior versions  
+**Effective Date:** July 29, 2025  
+**Supersedes:** v1.3.4 and all prior versions  
 
 ---
 
@@ -44,111 +44,16 @@ All countries **not listed** in Section 2.1 or 2.4 may freely use, modify, and d
 
 ---
 
-#### 2.4 Conditional Use – No Vietnamese Linkage & Regional Exclusions  
+#### 2.4 Conditional Use – No Vietnamese Linkage & Global Country Exclusions  
 
-The following regions are **excluded from usage**, regardless of citizenship, residency, or affiliation. Individuals, organizations, or entities from these regions may not use, modify, distribute, or benefit from this project:
+The following countries and all **nationals, residents, entities, organizations, or governments affiliated with them** are **explicitly excluded** from using, modifying, distributing, or benefiting from this project, regardless of citizenship, dual nationality, physical location, or corporate representation:
 
-##### 🌏 Asia (excluding Section 2.1 nations)  
-- Afghanistan  
-- Armenia  
-- Azerbaijan  
-- Bahrain  
-- Bangladesh  
-- Bhutan  
-- China  
-- Cyprus  
-- Georgia  
-- India  
-- Iran  
-- Iraq  
-- Israel  
-- Japan  
-- Jordan  
-- Kazakhstan  
-- Kuwait  
-- Kyrgyzstan  
-- Lebanon  
-- Maldives  
-- Mongolia  
-- Nepal  
-- Oman  
-- Pakistan  
-- Palestine  
-- Qatar  
-- Russia (Asian region)  
-- Saudi Arabia  
-- South Korea  
-- Sri Lanka  
-- Syria  
-- Taiwan  
-- Tajikistan  
-- Timor-Leste  
-- Turkey (Asian portion)  
-- Turkmenistan  
-- United Arab Emirates  
-- Uzbekistan  
-- Yemen  
+<details>
+  <summary>🌍 Excluded Jurisdictions (Alphabetically — ASEAN Nations Excluded)</summary>
 
-##### 🌎 Americas (Selected)  
-- Canada  
-- United States of America  
-- All Latin American and Caribbean countries (see previous list)
+Afghanistan, Albania, Algeria, Andorra, Angola, Antigua and Barbuda, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cameroon, Canada, Central African Republic, Chad, Chile, China, Colombia, Comoros, Congo (Brazzaville), Congo (Kinshasa), Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Djibouti, Dominica, Dominican Republic, East Timor, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Fiji, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Iran, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Korea (North), Korea (South), Kosovo, Kuwait, Kyrgyzstan, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Malawi, Maldives, Mali, Malta, Marshall Islands, Mauritania, Mauritius, Mexico, Micronesia, Moldova, Monaco, Mongolia, Montenegro, Morocco, Mozambique, Namibia, Nauru, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Norway, Oman, Pakistan, Palau, Panama, Papua New Guinea, Paraguay, Peru, Poland, Portugal, Qatar, Romania, Russia, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Suriname, Sweden, Switzerland, Syria, Taiwan, Tajikistan, Tanzania, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uruguay, Uzbekistan, Vanuatu, Vatican City, Venezuela, Yemen, Zambia, Zimbabwe
 
-##### 🌍 Africa (Entire Continent)  
-- All African nations (see previous list)
-
-##### 🇪🇺 European Union Member States  
-- Austria  
-- Belgium  
-- Bulgaria  
-- Croatia  
-- Cyprus  
-- Czech Republic  
-- Denmark  
-- Estonia  
-- Finland  
-- France  
-- Germany  
-- Greece  
-- Hungary  
-- Ireland  
-- Italy  
-- Latvia  
-- Lithuania  
-- Luxembourg  
-- Malta  
-- Netherlands  
-- Poland  
-- Portugal  
-- Romania  
-- Slovakia  
-- Slovenia  
-- Spain  
-- Sweden  
-
-##### 🇬🇧 United Kingdom & Surrounding Territories  
-- United Kingdom  
-- Isle of Man  
-- Channel Islands  
-- Gibraltar  
-
-##### 🌊 Oceania Sovereign Nations  
-- Australia  
-- New Zealand  
-- Fiji  
-- Papua New Guinea  
-- Solomon Islands  
-- Vanuatu  
-- Samoa  
-- Tonga  
-- Tuvalu  
-- Kiribati  
-- Nauru  
-- Palau  
-- Micronesia (Federated States of)  
-- Marshall Islands  
-- Cook Islands *(self-governing in free association with NZ)*  
-- Niue *(self-governing in free association with NZ)*
+</details>
 
 ##### ❌ Strictly Prohibited Actions  
 - Reselling, licensing, or transferring access to Vietnamese nationals or entities  
