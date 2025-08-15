@@ -1,18 +1,17 @@
-## 🌐 World Zero Project License (WZPL) – Version 1.3.7
+## 🌐 World Zero Project License (WZPL) – Version 1.3.8
 
 **Author:** *Toan Song Vo (Võ Song Toàn)*  
-**Effective Date:** August 9, 2025  
-**Supersedes:** v1.3.6 and all prior versions
+**Effective Date:** August 15, 2025  
+**Supersedes:** v1.3.7 and all prior versions
 
 ---
 
-### 🆕 Changelog – v1.3.7
+### 🆕 Changelog – v1.3.8
 
-- **Japan Reclassified:** Moved to “Completely Prohibited Jurisdictions” due to cultural aggression and proxy misuse.  
-- **Africa & South America Escalated:** All countries from these regions reclassified to Section 2.1 due to systemic exploitation and repeated violations.  
-- **ASEAN Countries Removed from Section 2.4:** Ensured no duplication between Sections 2.1 and 2.4.  
-- **Section 2.4 Cleaned:** Removed reclassified countries and corrected exclusions.  
-- **Clarification Appendix Added:** Justifications for newly prohibited regions included for transparency.
+- **Asian Countries Reclassified:** All Asian countries previously in Section 2.4 moved to Section 2.1, except **Israel**, which remains excluded from reclassification.  
+- **Section 2.1 Expanded:** Added newly reclassified Asian nations to “Additional Nation Prohibited.”  
+- **Section 2.4 Cleaned:** Removed Asian countries now covered under Section 2.1.  
+- **Clarification Appendix Updated:** Justifications for Asian reclassification added.
 
 ---
 
@@ -28,35 +27,29 @@ This license governs the use of the **World Zero Project** and all related works
 
 The following countries and **all nationals, residents, and entities affiliated with them**, regardless of dual citizenship or proxy operations, are **permanently barred** from using, modifying, distributing, deploying, or benefiting from any aspect of the World Zero Project:
 
-**ASEAN Member States (as of 2025):**
-- Brunei  
-- Cambodia  
-- Indonesia  
-- Laos  
-- Malaysia  
-- Myanmar  
-- Philippines  
-- Singapore  
-- Thailand  
-- Vietnam
+**ASEAN Member States (as of 2025):**  
+Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam
 
-**Additional Nation Prohibited:**
-- North Korea (Democratic People’s Republic of Korea)  
-- South Korea (Republic of Korea)  
-- Japan  
-- All African countries (see full list below)  
-- All South American countries (see full list below)
+**Additional Nation Prohibited:**  
+North Korea, South Korea, Japan  
+All African countries (see full list below)  
+All South American countries (see full list below)  
+All Asian countries (see full list below), **excluding Israel**
+
+<details><summary>🌏 Asian Countries (excluding ASEAN, Korea, Japan)</summary>  
+Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, China, Cyprus, Georgia, India, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Maldives, Mongolia, Nepal, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Sri Lanka, Syria, Taiwan, Tajikistan, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen  
+</details>
+
+<details><summary>🌍 African Countries</summary>  
+Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo (Brazzaville), Congo (Kinshasa), Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe  
+</details>
+
+<details><summary>🌎 South American Countries</summary>  
+Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela  
+</details>
 
 > 🚫 Entities, individuals, or governments acting *on behalf of*, *in service to*, or *through proxy for* these jurisdictions are equally restricted.  
 📣 *These regions were reclassified due to repeated incidents involving proxy misuse, exploitation of Vietnamese labor, and systemic aggression toward ASEAN nationals.*
-
-<details><summary>🌍 African Countries</summary>
-Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Congo (Brazzaville), Congo (Kinshasa), Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe
-</details>
-
-<details><summary>🌎 South American Countries</summary>
-Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela
-</details>
 
 ---
 
@@ -76,9 +69,11 @@ All countries **not listed** in Section 2.1 or 2.4 may freely use, modify, and d
 
 The following countries and all **nationals, residents, entities, organizations, or governments affiliated with them** are **explicitly excluded** from using, modifying, distributing, or benefiting from this project, regardless of citizenship, dual nationality, physical location, or corporate representation:
 
-<details><summary>🌍 Excluded Jurisdictions (Alphabetically)</summary>
-Afghanistan, Albania, Andorra, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bhutan, Bosnia and Herzegovina, Bulgaria, Canada, China, Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Dominica, Dominican Republic, East Timor, El Salvador, Estonia, Fiji, Finland, France, Georgia, Germany, Greece, Grenada, Guatemala, Honduras, Hungary, Iceland, Iran, Iraq, Ireland, Israel, Italy, Jamaica, Jordan, Kazakhstan, Kiribati, Kosovo, Kuwait, Kyrgyzstan, Lebanon, Liechtenstein, Lithuania, Luxembourg, Maldives, Malta, Marshall Islands, Mexico, Micronesia, Moldova, Monaco, Mongolia, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Oman, Pakistan, Palau, Panama, Papua New Guinea, Poland, Portugal, Qatar, Romania, Russia, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi Arabia, Serbia, Slovakia, Slovenia, Solomon Islands, Spain, Sri Lanka, Suriname, Sweden, Switzerland, Syria, Taiwan, Tajikistan, Tonga, Trinidad and Tobago, Turkey, Turkmenistan, Tuvalu, Ukraine, United Arab Emirates, United Kingdom, United States of America, Uzbekistan, Vanuatu, Vatican City, Yemen
+<details><summary>🌍 Excluded Jurisdictions (Alphabetically)</summary>  
+Albania, Andorra, Australia, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bosnia and Herzegovina, Bulgaria, Canada, Costa Rica, Croatia, Cuba, Czech Republic, Denmark, Dominica, Dominican Republic, East Timor, El Salvador, Estonia, Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Honduras, Hungary, Iceland, Ireland, Israel, Italy, Jamaica, Kosovo, Liechtenstein, Lithuania, Luxembourg, Malta, Marshall Islands, Mexico, Micronesia, Moldova, Monaco, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Palau, Panama, Papua New Guinea, Poland, Portugal, Romania, Russia, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, San Marino, Serbia, Slovakia, Slovenia, Solomon Islands, Spain, Suriname, Sweden, Switzerland, Trinidad and Tobago, Tonga, Tuvalu, Ukraine, United Kingdom, United States of America, Vanuatu, Vatican City  
 </details>
+
+> ✏️ *Asian countries previously listed here have been reclassified to Section 2.1, except Israel.*
 
 ##### ❌ Strictly Prohibited Actions
 
@@ -108,8 +103,9 @@ Use of this project is undertaken at the user’s own risk. The author assumes n
 
 ---
 
-### 📚 Appendix – Justifications for Escalation (v1.3.7)
+### 📚 Appendix – Justifications for Escalation (v1.3.8)
 
-- **Japan**: Reclassified due to persistent cultural aggression, exclusionary practices, and indirect exploitation of ASEAN nationals through tech platforms.  
-- **African Countries**: Escalated due to systemic misuse of open-source tools, proxy hiring of Vietnamese labor, and repeated violations of ethical boundaries.  
-- **South American Countries**: Reclassified following documented cases of Vietnamese exclusion, proxy deployment, and indirect exploitation through outsourcing networks.
+- **Asian Countries**: Reclassified due to persistent exclusion of Vietnamese developers, proxy outsourcing, and indirect exploitation through regional tech platforms.  
+- **Japan**: Previously reclassified due to cultural aggression and exclusionary practices.  
+- **African Countries**: Escalated due to systemic misuse of open-source tools and proxy hiring of Vietnamese labor.  
+- **South American Countries**: Reclassified following documented cases of Vietnamese exclusion and indirect exploitation through outsourcing networks.
