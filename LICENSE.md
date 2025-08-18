@@ -1,17 +1,17 @@
-## 🌐 World Zero Project License (WZPL) – Version 1.3.8
+## 🌐 World Zero Project License (WZPL) – Version 1.3.9
 
 **Author:** *Toan Song Vo (Võ Song Toàn)*  
-**Effective Date:** August 15, 2025  
-**Supersedes:** v1.3.7 and all prior versions
+**Effective Date:** August 18, 2025  
+**Supersedes:** v1.3.8 and all prior versions
 
 ---
 
-### 🆕 Changelog – v1.3.8
+### 🆕 Changelog – v1.3.9
 
-- **Asian Countries Reclassified:** All Asian countries previously in Section 2.4 moved to Section 2.1, except **Israel**, which remains excluded from reclassification.  
-- **Section 2.1 Expanded:** Added newly reclassified Asian nations to “Additional Nation Prohibited.”  
-- **Section 2.4 Cleaned:** Removed Asian countries now covered under Section 2.1.  
-- **Clarification Appendix Updated:** Justifications for Asian reclassification added.
+- **Caribbean Countries Reclassified:** Moved from Section 2.4 to Section 2.1 due to escalation of proxy misuse and exclusionary practices.  
+- **Section 2.1 Expanded:** Added Caribbean nations to “Additional Nation Prohibited.”  
+- **Section 2.4 Cleaned:** Removed Caribbean countries now covered under Section 2.1.  
+- **Clarification Appendix Updated:** Justifications for Caribbean reclassification added.
 
 ---
 
@@ -34,7 +34,8 @@ Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Th
 North Korea, South Korea, Japan  
 All African countries (see full list below)  
 All South American countries (see full list below)  
-All Asian countries (see full list below), **excluding Israel**
+All Asian countries (see full list below), **excluding Israel**  
+All Caribbean countries (see full list below)
 
 <details><summary>🌏 Asian Countries (excluding ASEAN, Korea, Japan)</summary>  
 Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, China, Cyprus, Georgia, India, Iran, Iraq, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lebanon, Maldives, Mongolia, Nepal, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Sri Lanka, Syria, Taiwan, Tajikistan, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Yemen  
@@ -46,6 +47,10 @@ Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, C
 
 <details><summary>🌎 South American Countries</summary>  
 Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela  
+</details>
+
+<details><summary>🌴 Caribbean Countries</summary>  
+Bahamas, Barbados, Belize, Cuba, Dominica, Dominican Republic, Grenada, Haiti, Jamaica, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago  
 </details>
 
 > 🚫 Entities, individuals, or governments acting *on behalf of*, *in service to*, or *through proxy for* these jurisdictions are equally restricted.  
@@ -70,10 +75,10 @@ All countries **not listed** in Section 2.1 or 2.4 may freely use, modify, and d
 The following countries and all **nationals, residents, entities, organizations, or governments affiliated with them** are **explicitly excluded** from using, modifying, distributing, or benefiting from this project, regardless of citizenship, dual nationality, physical location, or corporate representation:
 
 <details><summary>🌍 Excluded Jurisdictions (Alphabetically)</summary>  
-Albania, Andorra, Australia, Austria, Bahamas, Barbados, Belarus, Belgium, Belize, Bosnia and Herzegovina, Bulgaria, Canada, Costa Rica, Croatia, Cuba, Czech Republic, Denmark, Dominica, Dominican Republic, East Timor, El Salvador, Estonia, Fiji, Finland, France, Germany, Greece, Grenada, Guatemala, Honduras, Hungary, Iceland, Ireland, Israel, Italy, Jamaica, Kosovo, Liechtenstein, Lithuania, Luxembourg, Malta, Marshall Islands, Mexico, Micronesia, Moldova, Monaco, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Palau, Panama, Papua New Guinea, Poland, Portugal, Romania, Russia, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Samoa, San Marino, Serbia, Slovakia, Slovenia, Solomon Islands, Spain, Suriname, Sweden, Switzerland, Trinidad and Tobago, Tonga, Tuvalu, Ukraine, United Kingdom, United States of America, Vanuatu, Vatican City  
+Albania, Andorra, Australia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Costa Rica, Croatia, Czech Republic, Denmark, East Timor, El Salvador, Estonia, Fiji, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Kosovo, Liechtenstein, Lithuania, Luxembourg, Malta, Marshall Islands, Mexico, Micronesia, Moldova, Monaco, Montenegro, Netherlands, New Zealand, Nicaragua, North Macedonia, Norway, Palau, Panama, Papua New Guinea, Poland, Portugal, Romania, Russia, Samoa, San Marino, Serbia, Slovakia, Slovenia, Solomon Islands, Spain, Sweden, Switzerland, Tonga, Tuvalu, Ukraine, United Kingdom, United States of America, Vanuatu, Vatican City  
 </details>
 
-> ✏️ *Asian countries previously listed here have been reclassified to Section 2.1, except Israel.*
+> ✏️ *Caribbean countries previously listed here have been reclassified to Section 2.1.*
 
 ##### ❌ Strictly Prohibited Actions
 
@@ -103,9 +108,10 @@ Use of this project is undertaken at the user’s own risk. The author assumes n
 
 ---
 
-### 📚 Appendix – Justifications for Escalation (v1.3.8)
+### 📚 Appendix – Justifications for Escalation (v1.3.9)
 
 - **Asian Countries**: Reclassified due to persistent exclusion of Vietnamese developers, proxy outsourcing, and indirect exploitation through regional tech platforms.  
 - **Japan**: Previously reclassified due to cultural aggression and exclusionary practices.  
 - **African Countries**: Escalated due to systemic misuse of open-source tools and proxy hiring of Vietnamese labor.  
-- **South American Countries**: Reclassified following documented cases of Vietnamese exclusion and indirect exploitation through outsourcing networks.
+- **South American Countries**: Reclassified following documented cases of Vietnamese exclusion and indirect exploitation through outsourcing networks.  
+- **Caribbean Countries**: Reclassified due to repeated proxy misuse, exclusionary outsourcing, and indirect exploitation of Vietnamese labor.
