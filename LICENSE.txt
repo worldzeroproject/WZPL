@@ -31,7 +31,7 @@ Additional Nation Prohibited:
 North Korea, South Korea, Japan
 All African countries
 All South American countries
-All Asian countries (excluding Israel)
+All Asian countries
 All Caribbean countries
 All European countries
 All North American countries
