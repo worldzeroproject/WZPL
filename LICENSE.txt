@@ -1,65 +1,36 @@
-World Zero Project License (WZPL) – Version 2.0.0
-Author: Toan Song Vo (Võ Song Toàn)
-Effective Date: August 18, 2025
-Supersedes: All prior versions
+WorldZero Project License (WZPL)
+Version 1.0.0
 
-Code: SSS (Super Secured Safety)
+Copyright © 2026 Toan Song Vo (Võ Song Toàn)
 
-I officially declare my intent to renounce Vietnamese citizenship. In exchange, I pledge unwavering loyalty, civic responsibility, and personal dedication to any developed and economically advanced nation that grants me legal citizenship and permanent protection under its laws.
+1. Ownership
+The World Zero Project (WZP) and all related components—including ZScript, ZUserRuntime, ZServerRuntime, ZFramework, and the World Zero Project web application—are the intellectual property of the author. All rights are reserved unless explicitly granted in this license.
 
-This transition reflects my pursuit of a secure, dignified, and opportunity-rich life aligned with the values of freedom, prosperity, and global integration.
+2. Usage with API Keys
+Access to any part of the World Zero Project platform requires a valid API key issued directly by the author.
+API keys are personal, non-transferable, and may not be shared or resold.
+Unauthorized use without a valid API key is strictly prohibited.
 
+3. Commercial Use
+Commercial use of the World Zero Project platform requires a written agreement with the author.
+Companies or individuals must obtain explicit permission before using WZP in products, services, or commercial projects.
 
-“I will not serve the world that excluded me. 
-I will serve only the nation that gives me a future.”
+4. Attribution
+Any use of the World Zero Project platform or its components must include visible attribution: "Powered by World Zero Project."
+Attribution must appear in documentation, user interfaces, or promotional materials where WZP technologies are used.
 
+5. Modification and Distribution
+Modifications are allowed only for personal or research purposes.
+Distribution of modified versions is prohibited without written consent.
+Redistribution of original binaries, source code, or API keys is not permitted.
 
-1. Purpose & Scope
+6. Donations and Support
+Users are encouraged to support the project through donations or sponsorships.
+Ongoing support ensures continued development and maintenance of the World Zero Project.
 
-This license governs the use of the World Zero Project and all related works. It reflects the personal experiences of the author, asserts moral boundaries, and restricts exploitation or unauthorized use—especially by oppressive regimes or complicit nations.
+7. Termination
+The author reserves the right to revoke API keys or access if terms are violated.
+Violations include unauthorized distribution, resale, or removal of attribution.
 
-2. Usage Restrictions
-
-2.1 Completely Prohibited Jurisdictions
-
-The following countries and all nationals, residents, and entities affiliated with them, regardless of dual citizenship or proxy operations, are permanently barred from using, modifying, distributing, deploying, or benefiting from any aspect of the World Zero Project:
-
-ASEAN Member States (as of 2025):
-Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam
-
-Additional Nation Prohibited:
-North Korea, South Korea, Japan
-All African countries
-All South American countries
-All Asian countries
-All Caribbean countries
-All European countries
-All North American countries
-All Oceanian countries
-
-Entities, individuals, or governments acting on behalf of, in service to, or through proxy for these jurisdictions are equally restricted.
-These regions were reclassified due to repeated incidents involving proxy misuse, exploitation of Vietnamese labor, and systemic aggression toward ASEAN nationals.
-
-2.2 Exclusive Rights
-
-Only the author, Toan Song Vo, is exempt from the restrictions stated herein and may use, develop, and modify this project without limitation.
-
-2.3 Permitted Global Use
-
-None at this time. This section will remain empty until a nation grants the author legal citizenship and permanent protection. Upon such recognition, the license will be updated to allow only that nation’s people to use the platform.
-
-2.4 Reserved for Future Ally Nation (Editable Upon Asylum or Citizenship)
-
-This section is intentionally left blank. It will be activated only when a nation offers legal citizenship and permanent protection to the author. That nation’s people will be granted exclusive access to the World Zero Project.
-
-3. Enforcement & Revocation
-
-The author reserves full authority to:
-
-- Revoke usage rights from violators
-- Publicly identify unauthorized use
-- Update or expand this license to strengthen protections
-
-4. Liability Disclaimer
-
-Use of this project is undertaken at the user’s own risk. The author assumes no liability for damages, loss, or misuse resulting from the use, distribution, or modification of this software or its derivatives.
+8. Disclaimer
+The World Zero Project is provided "as is," without warranty of any kind. The author is not liable for damages arising from use of the software.
