@@ -1,4 +1,4 @@
-WorldZero Project License (WZPL)
+World Zero Project License (WZPL)
 Version 1.0.0
 
 Copyright © 2026 Toan Song Vo (Võ Song Toàn)
