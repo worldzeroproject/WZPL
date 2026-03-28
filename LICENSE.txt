@@ -1,36 +1,62 @@
 World Zero Project License (WZPL)
-Version 1.0.0
+Version 1.0.1  
 
-Copyright © 2026 Toan Song Vo (Võ Song Toàn)
+Copyright © 2026  
+Toan Song Vo (Võ Song Toàn)  
+All rights reserved.
 
-1. Ownership
-The World Zero Project (WZP) and all related components—including ZScript, ZUserRuntime, ZServerRuntime, ZFramework, and the World Zero Project web application—are the intellectual property of the author. All rights are reserved unless explicitly granted in this license.
+1. Definitions  
+“World Zero Project” (WZP) refers to the entire platform, including ZScript, ZFramework, ZUserRuntime, ZServerRuntime, the WZP web application, SDK tools, documentation, and all related components.  
+“SDK” refers to the WZP‑SDK, including binaries, templates, tools, documentation, and distributed artifacts.  
+“API Key” refers to a personal, non‑transferable key issued by the author that grants access to WZP services.  
+“User” refers to any individual or organization using the SDK or platform.
 
-2. Usage with API Keys
-Access to any part of the World Zero Project platform requires a valid API key issued directly by the author.
-API keys are personal, non-transferable, and may not be shared or resold.
-Unauthorized use without a valid API key is strictly prohibited.
+2. Scope of License  
+This license governs the use of the WZP‑SDK, runtime components, tools, documentation, and any distributed artifacts. All rights not explicitly granted in this license are reserved by the author.
 
-3. Commercial Use
-Commercial use of the World Zero Project platform requires a written agreement with the author.
-Companies or individuals must obtain explicit permission before using WZP in products, services, or commercial projects.
+3. Ownership  
+All components of the World Zero Project are the intellectual property of the author. No ownership rights are transferred to the user.
 
-4. Attribution
-Any use of the World Zero Project platform or its components must include visible attribution: "Powered by World Zero Project."
-Attribution must appear in documentation, user interfaces, or promotional materials where WZP technologies are used.
+4. Access and API Keys  
+Access to any part of the WZP platform requires a valid API key issued directly by the author.  
+API keys are personal and non‑transferable, and may not be shared, resold, or redistributed.  
+API keys may be revoked if terms are violated.  
+Unauthorized access or use without a valid API key is strictly prohibited.
 
-5. Modification and Distribution
-Modifications are allowed only for personal or research purposes.
-Distribution of modified versions is prohibited without written consent.
-Redistribution of original binaries, source code, or API keys is not permitted.
+5. Permitted Use  
+Users may use the SDK for personal, educational, or research purposes.  
+Users may build applications or prototypes using the SDK.  
+Users may modify SDK components for personal use only.  
+Commercial use requires explicit written permission.
 
-6. Donations and Support
-Users are encouraged to support the project through donations or sponsorships.
-Ongoing support ensures continued development and maintenance of the World Zero Project.
+6. Commercial Use  
+Any commercial use of WZP or its components requires a written agreement with the author.  
+This includes selling products or services built with WZP, using WZP in a commercial environment, or integrating WZP into paid tools or platforms.
 
-7. Termination
-The author reserves the right to revoke API keys or access if terms are violated.
-Violations include unauthorized distribution, resale, or removal of attribution.
+7. Attribution  
+Any use of WZP technologies must include visible attribution: “Powered by World Zero Project.”  
+Attribution must appear in documentation, user interfaces, promotional materials, and product pages where WZP technologies are used.
 
-8. Disclaimer
-The World Zero Project is provided "as is," without warranty of any kind. The author is not liable for damages arising from use of the software.
+8. Modification and Distribution  
+Users may modify SDK components only for personal or research purposes.  
+The following actions are prohibited without written consent:  
+- Distribution of modified versions  
+- Redistribution of original binaries or source code  
+- Redistribution of API keys  
+- Hosting or mirroring WZP components
+
+9. Reverse Engineering  
+Reverse engineering, decompiling, or attempting to extract internal logic or proprietary components is prohibited unless required by applicable law.
+
+10. Termination  
+The author may revoke API keys or access if license terms are violated, unauthorized distribution occurs, attribution is removed, or commercial use occurs without permission.  
+Termination may occur without prior notice.
+
+11. Disclaimer  
+The World Zero Project is provided “as is,” without warranty of any kind. The author is not liable for damages arising from the use of the software.
+
+12. Governing Law  
+This license is governed by the laws of the author’s jurisdiction unless otherwise agreed in writing.
+
+13. Contact  
+For commercial licensing, team plans, or special agreements, please contact the author.
